@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Thales - The Father of Western Philosophy","tags":["timeline","figure","Greek philosophy","mathematics","cosmology","gardenEntry"],"permalink":"/figures/philosophers/greek/thales/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Thales - The Father of Western Philosophy","tags":["timeline","figure","Greek philosophy","mathematics","cosmology"],"permalink":"/figures/philosophers/greek/thales/","dgPassFrontmatter":true}
 ---
 
 ## Highlight
