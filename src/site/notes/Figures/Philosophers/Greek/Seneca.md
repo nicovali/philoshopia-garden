@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Seneca - A Roman Philosopher and Statesman","tags":["figure","philosopher","Roman philosophy","Stoicism","ethics","gardenEntry"],"permalink":"/figures/philosophers/greek/seneca/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Seneca - A Roman Philosopher and Statesman","tags":["figure","philosopher","Roman philosophy","Stoicism","ethics"],"permalink":"/figures/philosophers/greek/seneca/","dgPassFrontmatter":true}
 ---
 
 
