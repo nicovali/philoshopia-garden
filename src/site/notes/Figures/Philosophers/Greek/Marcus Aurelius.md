@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Marcus Aurelius - Roman Emperor and Philosopher","tags":["figure","philosopher","stoicism","gardenEntry"],"permalink":"/figures/philosophers/greek/marcus-aurelius/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Marcus Aurelius - Roman Emperor and Philosopher","tags":["figure","philosopher","stoicism"],"permalink":"/figures/philosophers/greek/marcus-aurelius/","dgPassFrontmatter":true}
 ---
 
 ## Biography
