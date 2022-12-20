@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Plato - A Founding Figure of Western Philosophy","tags":["figure","philosopher","Greek philosophy","metaphysics","ethics","politics","gardenEntry"],"permalink":"/figures/philosophers/greek/plato/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Plato - A Founding Figure of Western Philosophy","tags":["figure","philosopher","Greek philosophy","metaphysics","ethics","politics"],"permalink":"/figures/philosophers/greek/plato/","dgPassFrontmatter":true}
 ---
 
 ## Biography
