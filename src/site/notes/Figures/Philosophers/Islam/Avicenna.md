@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Avicenna - Persian Philosopher and Scientist","tags":["figure","philosopher","Islam","science","medicine","gardenEntry"],"permalink":"/figures/philosophers/islam/avicenna/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Avicenna - Persian Philosopher and Scientist","tags":["figure","philosopher","Islam","science","medicine"],"permalink":"/figures/philosophers/islam/avicenna/","dgPassFrontmatter":true}
 ---
 
 ## Biography
