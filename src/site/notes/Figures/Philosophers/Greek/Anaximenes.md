@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Anaximenes - A Pre-Socratic Philosopher and Student of Anaximander","tags":["figure","philosopher","Greek philosophy","cosmology","natural science","gardenEntry"],"permalink":"/figures/philosophers/greek/anaximenes/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Anaximenes - A Pre-Socratic Philosopher and Student of Anaximander","tags":["figure","philosopher","Greek philosophy","cosmology","natural science"],"permalink":"/figures/philosophers/greek/anaximenes/","dgPassFrontmatter":true}
 ---
 
 ## Biography
