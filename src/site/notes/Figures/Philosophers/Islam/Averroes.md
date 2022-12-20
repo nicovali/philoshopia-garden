@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Averroes - Muslim Philosopher and Jurist","tags":["figure","philosopher","Islamic philosophy","Aristotelianism","gardenEntry"],"permalink":"/figures/philosophers/islam/averroes/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Averroes - Muslim Philosopher and Jurist","tags":["figure","philosopher","Islamic philosophy","Aristotelianism"],"permalink":"/figures/philosophers/islam/averroes/","dgPassFrontmatter":true}
 ---
 
 ## Biography
