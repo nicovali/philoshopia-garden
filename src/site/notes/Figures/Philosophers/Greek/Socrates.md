@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Socrates - The Founding Figure of Western Philosophy","tags":["figure","philosopher","Greek philosophy","ethics","logic","gardenEntry"],"permalink":"/figures/philosophers/greek/socrates/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Socrates - The Founding Figure of Western Philosophy","tags":["figure","philosopher","Greek philosophy","ethics","logic"],"permalink":"/figures/philosophers/greek/socrates/","dgPassFrontmatter":true}
 ---
 
 ## Biography
