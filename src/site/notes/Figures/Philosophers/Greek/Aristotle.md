@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Aristotle","tags":["figure","philosopher","Ancient Greece","philosophy","ethics","gardenEntry"],"permalink":"/figures/philosophers/greek/aristotle/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Aristotle","tags":["figure","philosopher","Ancient Greece","philosophy","ethics"],"permalink":"/figures/philosophers/greek/aristotle/","dgPassFrontmatter":true}
 ---
 
 
