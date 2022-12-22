@@ -33,7 +33,7 @@
 
 ### Books
 
--   Plato's "The Apology," "The Crito," and "The Phaedo" are dialogues that depict the trial, imprisonment, and death of Socrates.
+-   Plato's "[[Book/The Apology\|The Apology]]," "The Crito," and "The Phaedo" are dialogues that depict the trial, imprisonment, and death of Socrates.
 -   Plato's "The Republic" is a political and philosophical treatise that explores the nature of justice and the ideal state.
 -   Plato's "The Symposium" is a philosophical dialogue that explores the nature of love and beauty.
 
