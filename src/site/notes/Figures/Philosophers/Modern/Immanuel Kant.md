@@ -31,8 +31,8 @@
 
 ## Books
 
--   Critique of Pure Reason
--   Grounding for the Metaphysics of Morals
+-   [[Figures/Philosophers/Modern/Critique of Pure Reason\|Critique of Pure Reason]]
+-   [[Figures/Philosophers/Modern/Grounding for the Metaphysics of Morals\|Grounding for the Metaphysics of Morals]]
 
 ## References
 
