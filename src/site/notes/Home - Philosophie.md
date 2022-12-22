@@ -18,15 +18,15 @@
 - [[Figures/Philosophers/Modern/George Berkeley\|George Berkeley]]
 - [[Figures/Philosophers/Modern/Feuerbach\|Feuerbach]]
 - [[Figures/Philosophers/Greek/Aristotle\|Aristotle]]
-- [[Figures/Philosophers/Greek/Plato\|Plato]]
 - [[Figures/Philosophers/Greek/Anaximenes\|Anaximenes]]
 - [[Figures/Philosophers/Islam/Avicenna\|Avicenna]]
 - [[Figures/Philosophers/Islam/Averroes\|Averroes]]
 - [[Figures/Philosophers/Greek/Marcus Aurelius\|Marcus Aurelius]]
 - [[Figures/Philosophers/Greek/Seneca\|Seneca]]
-- [[Figures/Philosophers/Greek/Socrates\|Socrates]]
-- [[Figures/Philosophers/Modern/Friedrich Nietzche\|Friedrich Nietzche]]
 - [[Figures/Philosophers/Contemporer/Roland Barthes\|Roland Barthes]]
+- [[Figures/Philosophers/Greek/Plato\|Plato]]
+- [[Figures/Philosophers/Greek/Socrates\|Socrates]]
+- [[Figures/Philosophers/Modern/Friedrich Nietzsche\|Friedrich Nietzsche]]
 
 
 - [[General/Templates/Book Templates\|Book Templates]]
@@ -34,7 +34,14 @@
 - [[Figures/Philosophers/Modern/Grounding for the Metaphysics of Morals\|Grounding for the Metaphysics of Morals]]
 - [[Figures/Philosophers/Modern/Critique of Pure Reason\|Critique of Pure Reason]]
 - [[Beyond Good and Evil\|Beyond Good and Evil]]
+- [[Book/Meditations\|Meditations]]
+- [[Book/The Apology\|The Apology]]
+- [[Book/The Crito\|The Crito]]
+- [[Book/The Phaedo\|The Phaedo]]
+- [[Book/The Republic\|The Republic]]
+- [[Book/The Symposium\|The Symposium]]
 - [[Book/The Antichrist\|The Antichrist]]
+- [[Book/Thus Spoke Zarathustra\|Thus Spoke Zarathustra]]
 
 
 
