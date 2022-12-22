@@ -4,7 +4,7 @@
 
 ## Biography
 
--   585 BC - 525 BC
+-   585 BC - 525 
 -   Born in Miletus, Asia Minor (modern-day Turkey)
 -   Anaximenes was a Greek philosopher who was a contemporary and student of Anaximander. He is known for his contributions to the fields of cosmology and natural science and is considered a pre-Socratic philosopher. Anaximenes is known for his concept of the "pneuma," which he believed to be the fundamental substance of the universe. According to Anaximenes, the pneuma could take on different forms, such as air, fire, and water, and was responsible for the changes and transformations that occurred in the natural world.
 
