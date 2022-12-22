@@ -31,7 +31,7 @@
 
 ## Books
 
--   The Essence of Christianity (1841).
+-   [[The Essence of Christianity\|The Essence of Christianity]] (1841).
 -   Principles of the Philosophy of the Future (1843).
 
 ## References
