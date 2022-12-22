@@ -2,7 +2,7 @@
 {"title":"The Antichrist Review","dg-publish":true,"tags":["book","review","philosophy","Nietzsche"],"permalink":"/book/the-antichrist/","dgPassFrontmatter":true}
 ---
 
-By [[Friedrich Nietzsche\|Friedrich Nietzsche]]
+By [[Figures/Philosophers/Modern/Friedrich Nietzsche\|Friedrich Nietzsche]]
 
 [The Antichrist](https://www.amazon.com/Antichrist-Dover-Thrift-Editions/dp/0486298441)
 
