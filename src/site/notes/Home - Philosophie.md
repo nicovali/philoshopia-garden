@@ -22,11 +22,11 @@
 - [[Figures/Philosophers/Greek/Anaximenes\|Anaximenes]]
 - [[Figures/Philosophers/Islam/Avicenna\|Avicenna]]
 - [[Figures/Philosophers/Islam/Averroes\|Averroes]]
-- [[Figures/Philosophers/Contemporer/Roland Barthes\|Roland Barthes]]
 - [[Figures/Philosophers/Greek/Marcus Aurelius\|Marcus Aurelius]]
 - [[Figures/Philosophers/Greek/Seneca\|Seneca]]
 - [[Figures/Philosophers/Greek/Socrates\|Socrates]]
 - [[Figures/Philosophers/Modern/Friedrich Nietzche\|Friedrich Nietzche]]
+- [[Figures/Philosophers/Contemporer/Roland Barthes\|Roland Barthes]]
 
 
 - [[General/Templates/Book Templates\|Book Templates]]
