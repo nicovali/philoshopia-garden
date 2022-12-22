@@ -31,7 +31,7 @@
 
 ## Books
 
--   The World as Will and Representation
+-   [[g8\|g8]]
 -   On the Fourfold Root of the Principle of Sufficient Reason
 
 ## References
