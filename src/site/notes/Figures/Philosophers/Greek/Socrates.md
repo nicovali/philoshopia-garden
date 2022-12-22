@@ -33,8 +33,8 @@
 
 ### Books
 
--   Plato's "[[Book/The Apology\|../../../Book/The Apology]]," "[[Book/The Crito\|../../../Book/The Crito]]," and "[[Book/The Phaedo\|../../../Book/The Phaedo]]" are dialogues that depict the trial, imprisonment, and death of Socrates.
--   Plato's "[[Book/The Republic\|../../../Book/The Republic]]" and "[[Book/The Symposium\|../../../Book/The Symposium]]" also contain teachings and discussions attributed to Socrates.
+-   Plato's "[[Book/The Apology\|Book/The Apology]]," "[[Book/The Crito\|Book/The Crito]]," and "[[Book/The Phaedo\|Book/The Phaedo]]" are dialogues that depict the trial, imprisonment, and death of Socrates.
+-   Plato's "[[Book/The Republic\|The Republic]]" and "[[Book/The Symposium\|/Book/The Symposium]]" also contain teachings and discussions attributed to Socrates.
 
 ## Reference
 
