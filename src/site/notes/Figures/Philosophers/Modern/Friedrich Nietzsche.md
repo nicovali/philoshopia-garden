@@ -34,9 +34,9 @@
 
 ## Books
 
--   [[Book/Thus Spoke Zarathustra\|../../../Book/Thus Spoke Zarathustra]]
+-   [[Books/Thus Spoke Zarathustra\|../../../Books/Thus Spoke Zarathustra]]
 -   [[Beyond Good and Evil\|Beyond Good and Evil]]
--   [[Book/The Antichrist\|../../../Book/The Antichrist]]
+-   [[Books/The Antichrist\|../../../Books/The Antichrist]]
 
 ## References
 
