@@ -34,7 +34,7 @@
 
 ### Books
 
--   Seneca's "[[Book/Letters from a Stoic\|../../../Book/Letters from a Stoic]]" is a collection of letters that contain teachings and reflections on Stoic philosophy.
+-   Seneca's "[[Books/Letters from a Stoic\|../../../Books/Letters from a Stoic]]" is a collection of letters that contain teachings and reflections on Stoic philosophy.
 
 ## Reference
 
