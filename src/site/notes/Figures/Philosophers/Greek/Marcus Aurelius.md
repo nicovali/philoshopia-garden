@@ -28,7 +28,7 @@
 
 ### Books
 
--   [[Book/Meditations\|../../../Book/Meditations]]: Meditations is a philosophical work by Marcus Aurelius that consists of a series of personal reflections on the nature of life, death, and the meaning of existence. It is widely considered one of the greatest works of philosophy in the Western tradition.
+-   [[Books/Meditations\|../../../Books/Meditations]]: Meditations is a philosophical work by Marcus Aurelius that consists of a series of personal reflections on the nature of life, death, and the meaning of existence. It is widely considered one of the greatest works of philosophy in the Western tradition.
 
 ## References
 
