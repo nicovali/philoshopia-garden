@@ -26,6 +26,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         <h1>{{ page.fileSlug }}</h1>
       {% endif %}
       {{ content | link | highlight | safe}}
+      <p> Author <a href="https://nicovali.tech">nicovali</a></p>
     </div>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
