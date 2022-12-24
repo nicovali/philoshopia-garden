@@ -41,7 +41,6 @@
 - [[Book/The Apology\|The Apology]]
 - [[Book/Meditations\|Meditations]]
 - [[Beyond Good and Evil\|Beyond Good and Evil]]
-- [[General/Templates/Book Templates\|Book Templates]]
 
 
 
